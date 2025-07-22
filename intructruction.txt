@@ -1,0 +1,9 @@
+go to this find install and download
+https://github.com/tesseract-ocr/tesseract
+
+
+go to this find then downlad below version
+https://github.com/UB-Mannheim/tesseract/wiki
+
+👇
+tesseract-ocr-w64-setup-5.5.0.20241111.exe 

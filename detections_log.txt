@@ -1,0 +1,55 @@
+[2025-07-06_17-58-55] person
+[2025-07-06_17-59-08] cell phone, person
+[2025-07-06_17-59-10] remote, person
+[2025-07-06_17-59-10] chair, cell phone, remote, person
+[2025-07-06_17-59-10] cell phone, cup, remote, person
+[2025-07-06_17-59-11] cup, remote, person
+[2025-07-06_17-59-11] chair, remote, person
+[2025-07-06_17-59-11] chair, cup, remote, person
+[2025-07-06_17-59-12] laptop, remote, person
+[2025-07-06_17-59-12] remote, person
+[2025-07-06_17-59-13] chair, remote, person
+[2025-07-06_17-59-13] laptop, remote, person
+[2025-07-06_17-59-13] remote, person
+[2025-07-06_17-59-14] chair, remote, person
+[2025-07-06_17-59-14] chair, person
+[2025-07-06_17-59-15] cup, person
+[2025-07-06_17-59-15] person
+[2025-07-06_17-59-16] cell phone, person
+[2025-07-06_17-59-16] dining table, person
+[2025-07-06_17-59-17] person
+[2025-07-06_17-59-20] cell phone, person
+[2025-07-06_17-59-22] person
+[2025-07-06_17-59-22] remote, microwave, person
+[2025-07-06_17-59-22] remote, person
+[2025-07-06_17-59-23] cell phone, person
+[2025-07-06_17-59-23] remote, person
+[2025-07-06_17-59-23] cell phone, remote, person
+[2025-07-06_17-59-24] tv, person
+[2025-07-06_17-59-24] cell phone, person
+[2025-07-06_17-59-27] cup, person
+[2025-07-06_17-59-27] sink, person
+[2025-07-06_17-59-28] cell phone, person
+[2025-07-06_17-59-28] remote, person
+[2025-07-06_17-59-29] cell phone, remote, person
+[2025-07-06_17-59-29] cell phone, person
+[2025-07-06_17-59-30] cell phone, remote, person
+[2025-07-06_17-59-30] remote, person
+[2025-07-06_17-59-30] cell phone, person
+[2025-07-06_17-59-31] remote, person
+[2025-07-06_17-59-31] cell phone, remote, person
+[2025-07-06_17-59-32] cell phone, person
+[2025-07-06_17-59-32] cell phone, remote, person
+[2025-07-06_17-59-33] cell phone, person
+[2025-07-06_17-59-33] cell phone, remote, person
+[2025-07-06_17-59-33] cell phone, person
+[2025-07-06_17-59-34] cell phone, remote, person
+[2025-07-06_17-59-34] cell phone, person
+[2025-07-06_17-59-34] cell phone, microwave, person
+[2025-07-06_17-59-35] cell phone, person
+[2025-07-06_17-59-39] cell phone, remote, person
+[2025-07-06_17-59-39] cell phone, person
+[2025-07-06_18-01-02] person
+[2025-07-06_18-04-38] person, bed
+[2025-07-06_18-05-03] person, bed, couch
+[2025-07-06_18-05-03] person, bed
